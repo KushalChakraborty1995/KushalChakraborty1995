@@ -26,7 +26,7 @@
 " width="600" height="300"/>
 </div>
   :man_technologist: About Me :
-   I am a Data science enthusiast with Mathematics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+   I am a Data science enthusiast with Mathematics Background <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
   - :telescope:  I have a strong foundation in mathematics, which provides me with a solid analytical and problem-solving skill set that is essential for a career in data analysis and data science. My mathematical background enables me to approach complex data problems with a systematic and logical mindset.
 
