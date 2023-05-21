@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/KushalChakraborty1995/KushalChakraborty1995/assets/114491920/e31b72fe-68b0-48d1-8256-cb033480785e)
+
 <h1 align="center">Hi 👋, I'm Kushal Chakraborty</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
